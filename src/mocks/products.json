@@ -345,5 +345,657 @@
     "name": "Джинсы Lee Cooper",
     "price": 9200,
     "weight": 0.5
+  },
+  "-Nkfnf1FNmyUdalKTYzE": {
+    "brand": {
+      "id": "-NkfjDXFfFEkRgs_b01F",
+      "name": "Levi's®"
+    },
+    "category": {
+      "id": "-NkfipU4uWpp7PhaMZyV",
+      "name": "Джинсы",
+      "url": "jeans"
+    },
+    "description": "Размер на модели: 32/34. Параметры модели: рост 185 см, грудь 94 см, талия 78 см, бедра 100 см. Классический крой 501 с завышенной талией.",
+    "discount": {
+      "discountedPrice": 8990,
+      "percent": 10
+    },
+    "gender": {
+      "id": "1",
+      "name": "Мужской",
+      "url": "male"
+    },
+    "image": "https://usmall.ru/image/066/19/77/19a06b4c16f240244697eb0b3aacc203.jpeg",
+    "name": "Джинсы 501 Original",
+    "price": 9990,
+    "weight": 1.2
+  },
+  "-Nkfnf2GOmzVebmKUz0F": {
+    "brand": {
+      "id": "-NkfjGXhTqPvLmZc_d2A",
+      "name": "H&M"
+    },
+    "category": {
+      "id": "-NkfiwscdixHLuW87vr3",
+      "name": "Футболки",
+      "url": "tees"
+    },
+    "description": "Размер на модели: M. Параметры модели: рост 175 см, грудь 88 см. Хлопковая футболка с принтом в стиле ретро.",
+    "gender": {
+      "id": "3",
+      "name": "Унисекс",
+      "url": "unisex"
+    },
+    "image": "https://i.pinimg.com/736x/b9/56/a0/b956a0ea1c8386530020ef91f23d74af.jpg",
+    "name": "Футболка Oversized Graphic",
+    "price": 1499,
+    "weight": 0.3
+  },
+  "-Nkfnf3HPn0WfcnLV1AG": {
+    "brand": {
+      "id": "-NkfjZzXaAbCdSeE_h6E",
+      "name": "Gucci"
+    },
+    "category": {
+      "id": "-NkfjxAaAbWdVhHi_k9H",
+      "name": "Аксессуары",
+      "url": "accessories"
+    },
+    "description": "Ширина ремня: 3.5 см. Классическая пряжка с логотипом GG.",
+    "discount": {
+      "discountedPrice": 35990,
+      "percent": 15
+    },
+    "gender": {
+      "id": "1",
+      "name": "Мужской",
+      "url": "male"
+    },
+    "image": "https://n.cdn.cdek.shopping/images/shopping/MKV2z40bmOMaEVJN.jpg?v=1",
+    "name": "Ремень GG Supreme",
+    "price": 42390,
+    "weight": 0.5
+  },
+  "-Nkfnf4IQo1XgdoMW2BH": {
+    "brand": {
+      "id": "-NkfjUvSzWqMnRdD_g5D",
+      "name": "Adidas"
+    },
+    "category": {
+      "id": "-NkfjvZyYyUbTfFg_i7F",
+      "name": "Спортивные костюмы",
+      "url": "tracksuits"
+    },
+    "description": "Размер на модели: L. Параметры модели: рост 180 см. Терморегулирующая ткань Climacool.",
+    "gender": {
+      "id": "3",
+      "name": "Унисекс",
+      "url": "unisex"
+    },
+    "image": "https://cdn1.ozone.ru/s3/multimedia-6/c600/6402518778.jpg",
+    "name": "Костюм Tiro 21",
+    "price": 8990,
+    "weight": 1.1
+  },
+  "-Nkfnf5JRp2YheqNX3CI": {
+    "brand": {
+      "id": "-Nkfj5SQsQ_2rLftLjs1",
+      "name": "Lee Cooper"
+    },
+    "category": {
+      "id": "-NkfipU4uWpp7PhaMZyV",
+      "name": "Джинсы",
+      "url": "jeans"
+    },
+    "description": "Размер на модели: 28/30. Параметры модели: рост 170 см, талия 62 см. Узкий крой с эффектом потертостей.",
+    "discount": {
+      "discountedPrice": 5990,
+      "percent": 20
+    },
+    "gender": {
+      "id": "2",
+      "name": "Женский",
+      "url": "female"
+    },
+    "image": "https://static.ticimax.cloud/44746/uploads/urunresimleri/buyuk/jaycee-kadin-jean-pantolon-vbl-mid-0-b5fa.jpg",
+    "name": "Джинсы Skinny Fit",
+    "price": 7490,
+    "weight": 0.9
+  },
+  "-Nkfnf6KSq3ZifrOY4DJ": {
+    "brand": {
+      "id": "-NkfjKpYrStQvNoB_e3B",
+      "name": "Zara"
+    },
+    "category": {
+      "id": "-NkfjuYxXxTaSeE_h6E",
+      "name": "Платья",
+      "url": "dresses"
+    },
+    "description": "Размер на модели: S. Параметры модели: рост 168 см. Миди-платье с запахом и поясом.",
+    "gender": {
+      "id": "2",
+      "name": "Женский",
+      "url": "female"
+    },
+    "image": "https://static.cdek.shopping/images/shopping/rrTBTQmssY2DO6DX.jpg",
+    "name": "Платье Wrap Midi",
+    "price": 4990,
+    "weight": 0.6
+  },
+  "-Nkfnf7LTr4AjgsPZ5EK": {
+    "brand": {
+      "id": "-NkfjQwVxUyLpOaC_f4C",
+      "name": "Nike"
+    },
+    "category": {
+      "id": "-NkfjtXwWwSzRdD_g5D",
+      "name": "Шорты",
+      "url": "shorts"
+    },
+    "description": "Размер на модели: M. Технология Dri-FIT для отвода влаги. Эластичный пояс.",
+    "discount": {
+      "discountedPrice": 3290,
+      "percent": 18
+    },
+    "gender": {
+      "id": "1",
+      "name": "Мужской",
+      "url": "male"
+    },
+    "image": "https://d2bzx2vuetkzse.cloudfront.net/fit-in/0x450/images_without_background/248dd92f-1179-4132-a12c-e3cff6b34321.png",
+    "name": "Шорты Sportswear",
+    "price": 3990,
+    "weight": 0.4
+  },
+  "-Nkfnf8MUs5BkhtQa6FL": {
+    "brand": {
+      "id": "-NkfjhSsDtEhUgGh_j8G",
+      "name": "Supreme"
+    },
+    "category": {
+      "id": "-NkfiwscdixHLuW87vr3",
+      "name": "Футболки",
+      "url": "tees"
+    },
+    "description": "Размер на модели: L. Лимитированная коллекция с принтом Box Logo.",
+    "gender": {
+      "id": "3",
+      "name": "Унисекс",
+      "url": "unisex"
+    },
+    "image": "https://cdn1.ozone.ru/s3/multimedia-1-c/7471654608.jpg",
+    "name": "Футболка Box Logo",
+    "price": 19990,
+    "weight": 0.3
+  },
+  "-Nkfnf9NVt6CliuRb7GM": {
+    "brand": {
+      "id": "-NkfjmVtFuFiVhHi_k9H",
+      "name": "BAPE"
+    },
+    "category": {
+      "id": "-NkfjrYtUuQwNoB_e3B",
+      "name": "Худи и толстовки",
+      "url": "hoodies"
+    },
+    "description": "Размер на модели: XL. Капюшон с акульим принтом и молнией.",
+    "discount": {
+      "discountedPrice": 42990,
+      "percent": 10
+    },
+    "gender": {
+      "id": "1",
+      "name": "Мужской",
+      "url": "male"
+    },
+    "image": "https://us.bape.com/cdn/shop/files/001ZPJ801010_NVY_A_1024x.jpg?v=1695351471",
+    "name": "Худи Shark Full Zip",
+    "price": 47990,
+    "weight": 1.3
+  },
+  "-Nkfnf10OWu7DmjvSc8HN": {
+    "brand": {
+      "id": "-Nkfj5SQsQ_2rLftLjs1",
+      "name": "Lee Cooper"
+    },
+    "category": {
+      "id": "-NkfipU4uWpp7PhaMZyV",
+      "name": "Джинсы",
+      "url": "jeans"
+    },
+    "description": "Размер на модели: 31/32. Прямой крой с потертостями и эффектом vintage.",
+    "gender": {
+      "id": "1",
+      "name": "Мужской",
+      "url": "male"
+    },
+    "image": "https://usmall.ru/image/066/19/77/19a06b4c16f240244697eb0b3aacc203.jpeg",
+    "name": "Джинсы Vintage Straight",
+    "price": 6990,
+    "weight": 1.1
+  },
+
+
+  "-Nkfnf1FNmyUdalKTYzA": {
+    "brand": {
+      "id": "-NkfjDXFfFEkRgs_b01F",
+      "name": "Levi's®"
+    },
+    "category": {
+      "id": "-NkfipU4uWpp7PhaMZyV",
+      "name": "Джинсы",
+      "url": "jeans"
+    },
+    "description": "Классические прямые джинсы 501 с завышенной талией. Размер на модели: 32/34.",
+    "gender": {
+      "id": "1",
+      "name": "Мужской",
+      "url": "male"
+    },
+    "image": "https://l-l-w.ru/upload/iblock/fac/gjlsouguik3p4ila5ru8m4mwzy6u1ecw.jpg",
+    "name": "Джинсы 501 Original",
+    "price": 9990,
+    "weight": 1.2
+  },
+  "-Nkfnf2GOmzVebmKUz0N": {
+    "brand": {
+      "id": "-NkfjGXhTqPvLmZc_d2A",
+      "name": "H&M"
+    },
+    "category": {
+      "id": "-NkfiwscdixHLuW87vr3",
+      "name": "Футболки",
+      "url": "tees"
+    },
+    "description": "Хлопковая футболка oversize с круглым вырезом. Размер на модели: M.",
+    "gender": {
+      "id": "3",
+      "name": "Унисекс",
+      "url": "unisex"
+    },
+    "image": "https://a.lmcdn.ru/img600x866/R/T/RTLACM024001_19354955_4_v1.jpg",
+    "name": "Футболка Basic Oversized",
+    "price": 1499,
+    "weight": 0.3
+  },
+  "-Nkfnf3HPn0WfcnLV1AA": {
+    "brand": {
+      "id": "-NkfjZzXaAbCdSeE_h6E",
+      "name": "Gucci"
+    },
+    "category": {
+      "id": "-NkfjxAaAbWdVhHi_k9H",
+      "name": "Аксессуары",
+      "url": "accessories"
+    },
+    "description": "Кожаный ремень с пряжкой GG. Ширина: 3.5 см.",
+    "gender": {
+      "id": "1",
+      "name": "Мужской",
+      "url": "male"
+    },
+    "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/53/P00591941.jpg",
+    "name": "Ремень GG Supreme",
+    "price": 42390,
+    "weight": 0.5
+  },
+  "-Nkfnf4IQo1XgdoMW2BM": {
+    "brand": {
+      "id": "-NkfjUvSzWqMnRdD_g5D",
+      "name": "Adidas"
+    },
+    "category": {
+      "id": "-NkfjvZyYyUbTfFg_i7F",
+      "name": "Спортивные костюмы",
+      "url": "tracksuits"
+    },
+    "description": "Спортивный костюм из коллекции Tiro 21. Размер на модели: L.",
+    "gender": {
+      "id": "3",
+      "name": "Унисекс",
+      "url": "unisex"
+    },
+    "image": "https://adidas-ru.com/images/detailed/2564/Koszulka_Tiro_23_Club_Winterized_Niebieski_IL3172_25_model.jpg",
+    "name": "Костюм Tiro 21",
+    "price": 8990,
+    "weight": 1.1
+  },
+  "-Nkfnf5JRp2YheqNX3DG": {
+    "brand": {
+      "id": "-Nkfj5SQsQ_2rLftLjs1",
+      "name": "Lee Cooper"
+    },
+    "category": {
+      "id": "-NkfipU4uWpp7PhaMZyV",
+      "name": "Джинсы",
+      "url": "jeans"
+    },
+    "description": "Узкие джинсы с эффектом потертостей. Размер на модели: 28/30.",
+    "gender": {
+      "id": "2",
+      "name": "Женский",
+      "url": "female"
+    },
+    "image": "https://basket-10.wbbasket.ru/vol1495/part149537/149537702/images/big/1.webp",
+    "name": "Джинсы Skinny Fit",
+    "price": 7490,
+    "weight": 0.9
+  },
+  "-Nkfnf6KSq3ZifrOY4LH": {
+    "brand": {
+      "id": "-NkfjKpYrStQvNoB_e3B",
+      "name": "Zara"
+    },
+    "category": {
+      "id": "-NkfjuYxXxTaSeE_h6E",
+      "name": "Платья",
+      "url": "dresses"
+    },
+    "description": "Миди-платье с запахом и поясом. Размер на модели: S.",
+    "gender": {
+      "id": "2",
+      "name": "Женский",
+      "url": "female"
+    },
+    "image": "https://static.cdek.shopping/images/shopping/ac5acae5ca0d449da8f543bcd1f3c96f.jpeg",
+    "name": "Платье Wrap Midi",
+    "price": 4990,
+    "weight": 0.6
+  },
+  "-Nkfnf7LTr4AjgsPZ5IP": {
+    "brand": {
+      "id": "-NkfjQwVxUyLpOaC_f4C",
+      "name": "Nike"
+    },
+    "category": {
+      "id": "-NkfjtXwWwSzRdD_g5D",
+      "name": "Шорты",
+      "url": "shorts"
+    },
+    "description": "Спортивные шорты с технологией Dri-FIT. Размер на модели: M.",
+    "gender": {
+      "id": "1",
+      "name": "Мужской",
+      "url": "male"
+    },
+    "image": "https://nazya.com/anyimage/img.alicdn.com/imgextra/i3/890482188/TB13JcVmHSYBuNjSspfXXcZCpXa_!!0-item_pic.jpg",
+    "name": "Шорты Sportswear",
+    "price": 3990,
+    "weight": 0.4
+  },
+  "-Nkfnf8MUs5BkhtQa6LM": {
+    "brand": {
+      "id": "-NkfjhSsDtEhUgGh_j8G",
+      "name": "Supreme"
+    },
+    "category": {
+      "id": "-NkfiwscdixHLuW87vr3",
+      "name": "Футболки",
+      "url": "tees"
+    },
+    "description": "Лимитированная футболка с принтом Box Logo. Размер на модели: L.",
+    "gender": {
+      "id": "3",
+      "name": "Унисекс",
+      "url": "unisex"
+    },
+    "image": "https://ir.ozone.ru/s3/multimedia-8/c1000/6531550304.jpg",
+    "name": "Футболка Box Logo",
+    "price": 19990,
+    "weight": 0.3
+  },
+  "-Nkfnf9NVt6CliuRb7ER": {
+    "brand": {
+      "id": "-NkfjmVtFuFiVhHi_k9H",
+      "name": "BAPE"
+    },
+    "category": {
+      "id": "-NkfjrYtUuQwNoB_e3B",
+      "name": "Худи и толстовки",
+      "url": "hoodies"
+    },
+    "description": "Худи с акульим принтом и молнией. Размер на модели: XL.",
+    "gender": {
+      "id": "1",
+      "name": "Мужской",
+      "url": "male"
+    },
+    "image": "https://n.cdn.cdek.shopping/images/shopping/6YXUkLp4iAbkdfCV.jpg?v=1",
+    "name": "Худи Shark Full Zip",
+    "price": 47990,
+    "weight": 1.3
+  },
+  "-Nkfnf10OWu7DmjvSc8QW": {
+    "brand": {
+      "id": "-Nkfj5SQsQ_2rLftLjs1",
+      "name": "Lee Cooper"
+    },
+    "category": {
+      "id": "-NkfipU4uWpp7PhaMZyV",
+      "name": "Джинсы",
+      "url": "jeans"
+    },
+    "description": "Прямые джинсы в винтажном стиле. Размер на модели: 31/32.",
+    "gender": {
+      "id": "1",
+      "name": "Мужской",
+      "url": "male"
+    },
+    "image": "https://a.lmcdn.ru/img600x866/I/X/IX001XM00GVE_16398156_1_v1.jpeg",
+    "name": "Джинсы Vintage Straight",
+    "price": 6990,
+    "weight": 1.1
+  },
+  "-Nkfnf11PXv8EnkwTd9IO": {
+    "brand": {
+      "id": "-NkfjKpYrStQvNoB_e3B",
+      "name": "Zara"
+    },
+    "category": {
+      "id": "-NkfjqRsTvXpLmZc_d2A",
+      "name": "Рубашки",
+      "url": "shirts"
+    },
+    "description": "Классическая рубашка из хлопка. Размер на модели: M.",
+    "gender": {
+      "id": "1",
+      "name": "Мужской",
+      "url": "male"
+    },
+    "image": "https://static.cdek.shopping/images/shopping/kSttjgYk2d7WcFac.jpg",
+    "name": "Рубашка Oxford",
+    "price": 3490,
+    "weight": 0.5
+  },
+  "-Nkfnf12QYw9FoldUe0JP": {
+    "brand": {
+      "id": "-NkfjGXhTqPvLmZc_d2A",
+      "name": "H&M"
+    },
+    "category": {
+      "id": "-NkfjsZvVvRyOaC_f4C",
+      "name": "Куртки",
+      "url": "jackets"
+    },
+    "description": "Джинсовая куртка с отложным воротником. Размер на модели: S.",
+    "gender": {
+      "id": "2",
+      "name": "Женский",
+      "url": "female"
+    },
+    "image": "https://img.joomcdn.net/569c0d10b9fee210da4cde88a3f7fc980d591b16_original.jpeg",
+    "name": "Куртка Denim",
+    "price": 5990,
+    "weight": 0.8
+  },
+  "-Nkfnf13RZx10GpmVf1KQ": {
+    "brand": {
+      "id": "-NkfjUvSzWqMnRdD_g5D",
+      "name": "Adidas"
+    },
+    "category": {
+      "id": "-NkfjwZzZzVcUgGh_j8G",
+      "name": "Белье и домашняя одежда",
+      "url": "underwear"
+    },
+    "description": "Спортивные шорты для бега. Размер на модели: L.",
+    "gender": {
+      "id": "3",
+      "name": "Унисекс",
+      "url": "unisex"
+    },
+    "image": "https://img.joomcdn.net/85f58aecaa7a321c5f262ebdb0b7b59f78721425_original.jpeg",
+    "name": "Шорты для бега",
+    "price": 2490,
+    "weight": 0.2
+  },
+  "-Nkfnf14SAy21HqnWg2LR": {
+    "brand": {
+      "id": "-NkfjQwVxUyLpOaC_f4C",
+      "name": "Nike"
+    },
+    "category": {
+      "id": "-NkfjxAaAbWdVhHi_k9H",
+      "name": "Аксессуары",
+      "url": "accessories"
+    },
+    "description": "Бейсболка с логотипом Nike Swoosh.",
+    "gender": {
+      "id": "3",
+      "name": "Унисекс",
+      "url": "unisex"
+    },
+    "image": "https://avatars.mds.yandex.net/get-mpic/4412310/img_id435481089775996496.jpeg/orig",
+    "name": "Бейсболка Sportswear",
+    "price": 2990,
+    "weight": 0.1
+  },
+  "-Nkfnf15TBz32IroXh3MS": {
+    "brand": {
+      "id": "-NkfjZzXaAbCdSeE_h6E",
+      "name": "Gucci"
+    },
+    "category": {
+      "id": "-NkfjxAaAbWdVhHi_k9H",
+      "name": "Аксессуары",
+      "url": "accessories"
+    },
+    "description": "Шелковый шарф с принтом GG.",
+    "gender": {
+      "id": "2",
+      "name": "Женский",
+      "url": "female"
+    },
+    "image": "https://viled.kz/_next/image?url=https%3A%2F%2Fstorage.yandexcloud.net%2Fcdn-prod.viled.kz%2Fv3%2Fconverted%2Fmedium%2F257931rZ6n4.webp&w=256&q=75",
+    "name": "Шарф GG Supreme",
+    "price": 28990,
+    "weight": 0.2
+  },
+  "-Nkfnf16UC043JspYi4NT": {
+    "brand": {
+      "id": "-Nkfj5SQsQ_2rLftLjs1",
+      "name": "Lee Cooper"
+    },
+    "category": {
+      "id": "-NkfipU4uWpp7PhaMZyV",
+      "name": "Джинсы",
+      "url": "jeans"
+    },
+    "description": "Джинсы скинни с высокой посадкой. Размер на модели: 27/30.",
+    "gender": {
+      "id": "2",
+      "name": "Женский",
+      "url": "female"
+    },
+    "image": "https://img.ltwebstatic.com/images3_pi/2021/08/17/1629184656390ac0a4b7218f649283607e9292f0b1.jpg",
+    "name": "Джинсы High Waist Skinny",
+    "price": 7990,
+    "weight": 0.8
+  },
+  "-Nkfnf17VD154KtqZj5OU": {
+    "brand": {
+      "id": "-NkfjKpYrStQvNoB_e3B",
+      "name": "Zara"
+    },
+    "category": {
+      "id": "-NkfjuYxXxTaSeE_h6E",
+      "name": "Платья",
+      "url": "dresses"
+    },
+    "description": "Вечернее платье миди с открытыми плечами. Размер на модели: XS.",
+    "gender": {
+      "id": "2",
+      "name": "Женский",
+      "url": "female"
+    },
+    "image": "https://cdn1.ozone.ru/s3/multimedia-9/6285856713.jpg",
+    "name": "Платье вечернее",
+    "price": 8990,
+    "weight": 0.7
+  },
+  "-Nkfnf18WE265LurAk6PV": {
+    "brand": {
+      "id": "-NkfjhSsDtEhUgGh_j8G",
+      "name": "Supreme"
+    },
+    "category": {
+      "id": "-NkfjrYtUuQwNoB_e3B",
+      "name": "Худи и толстовки",
+      "url": "hoodies"
+    },
+    "description": "Толстовка с логотипом Supreme Box Logo. Размер на модели: M.",
+    "gender": {
+      "id": "3",
+      "name": "Унисекс",
+      "url": "unisex"
+    },
+    "image": "https://n.cdn.cdek.shopping/images/shopping/a35577fcc5b74de689787c369c2689bc.jpg?v=1",
+    "name": "Толстовка Box Logo",
+    "price": 24990,
+    "weight": 1.0
+  },
+  "-Nkfnf19XF376MvsBl7QW": {
+    "brand": {
+      "id": "-NkfjUvSzWqMnRdD_g5D",
+      "name": "Adidas"
+    },
+    "category": {
+      "id": "-NkfjvZyYyUbTfFg_i7F",
+      "name": "Спортивные костюмы",
+      "url": "tracksuits"
+    },
+    "description": "Спортивный костюм из коллекции Essentials. Размер на модели: S.",
+    "gender": {
+      "id": "2",
+      "name": "Женский",
+      "url": "female"
+    },
+    "image": "https://i.pinimg.com/originals/77/53/1e/77531e887e2da4ea5295152f27250c83.jpg",
+    "name": "Костюм Essentials",
+    "price": 10990,
+    "weight": 1.2
+  },
+  "-Nkfnf20YG487NwtCm8RX": {
+    "brand": {
+      "id": "-NkfjQwVxUyLpOaC_f4C",
+      "name": "Nike"
+    },
+    "category": {
+      "id": "-NkfjtXwWwSzRdD_g5D",
+      "name": "Шорты",
+      "url": "shorts"
+    },
+    "description": "Шорты для тренировок с карманами. Размер на модели: XL.",
+    "gender": {
+      "id": "1",
+      "name": "Мужской",
+      "url": "male"
+    },
+    "image": "https://dks.scene7.com/is/image/GolfGalaxy/19NIKMMNKDRYSHRTPAPB_Black_White-1",
+    "name": "Шорты Training",
+    "price": 4590,
+    "weight": 0.4
   }
 }

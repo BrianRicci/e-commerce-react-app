@@ -8,5 +8,45 @@
     "description": "Большой выбор мужских и женских футболок.",
     "name": "Футболки",
     "url": "tees"
+  },
+  "-NkfjqRsTvXpLmZc_d2A": {
+    "description": "Классические и модные рубашки для мужчин и женщин на любой сезон.",
+    "name": "Рубашки",
+    "url": "shirts"
+  },
+  "-NkfjrYtUuQwNoB_e3B": {
+    "description": "Стильные толстовки и худи для комфорта в повседневной жизни.",
+    "name": "Худи и толстовки",
+    "url": "hoodies"
+  },
+  "-NkfjsZvVvRyOaC_f4C": {
+    "description": "Разнообразные куртки: джинсовые, кожаные, ветровки и утепленные варианты.",
+    "name": "Куртки",
+    "url": "jackets"
+  },
+  "-NkfjtXwWwSzRdD_g5D": {
+    "description": "Удобные и модные шорты для спорта, отдыха и повседневной носки.",
+    "name": "Шорты",
+    "url": "shorts"
+  },
+  "-NkfjuYxXxTaSeE_h6E": {
+    "description": "Элегантные и повседневные платья на любой вкус и случай.",
+    "name": "Платья",
+    "url": "dresses"
+  },
+  "-NkfjvZyYyUbTfFg_i7F": {
+    "description": "Спортивные костюмы для тренировок и повседневного ношения.",
+    "name": "Спортивные костюмы",
+    "url": "tracksuits"
+  },
+  "-NkfjwZzZzVcUgGh_j8G": {
+    "description": "Нижнее белье и домашняя одежда для комфорта каждый день.",
+    "name": "Белье и домашняя одежда",
+    "url": "underwear"
+  },
+  "-NkfjxAaAbWdVhHi_k9H": {
+    "description": "Широкий выбор аксессуаров: ремни, шарфы, головные уборы и сумки.",
+    "name": "Аксессуары",
+    "url": "accessories"
   }
 }
